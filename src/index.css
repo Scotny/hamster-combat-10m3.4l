@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  color: #fffefd;
+}
+
+.container {
+  max-width: 1440px;
+  height: 100vh;
+  padding: 40px 0;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body {
+  background-color: #2c2f35;
+}
